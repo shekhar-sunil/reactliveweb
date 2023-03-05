@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shekhar-sunil/reactliveweb.git/static/css/main.6e253015.css",
+    "main.js": "/shekhar-sunil/reactliveweb.git/static/js/main.5b37b4d9.js",
+    "static/media/incr8.jpeg": "/shekhar-sunil/reactliveweb.git/static/media/incr8.3932f20d9cff82db141a.jpeg",
+    "index.html": "/shekhar-sunil/reactliveweb.git/index.html",
+    "main.6e253015.css.map": "/shekhar-sunil/reactliveweb.git/static/css/main.6e253015.css.map",
+    "main.5b37b4d9.js.map": "/shekhar-sunil/reactliveweb.git/static/js/main.5b37b4d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e253015.css",
+    "static/js/main.5b37b4d9.js"
+  ]
+}
