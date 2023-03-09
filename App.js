@@ -1,6 +1,6 @@
 
 import './App.css';
-import 'https://github.com/shekhar-sunil/reactliveweb/blob/main/Style.css';
+import './Style.css';
 function App() {
   return (
     <div className="App">
